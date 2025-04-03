@@ -15,12 +15,6 @@ Ninja Bubble is an engaging and interactive game developed using **Jetpack Compo
 - **Custom Sprites**: Unique designs for characters and weapons.
 - **Audio Effects**: Immersive sound effects enhancing gameplay.
 
-## 📸 Screenshots
-<p align="center">
-  <img src="ASSETS/screenshot1.png" alt="Gameplay Screenshot 1">
-  <img src="ASSETS/screenshot2.png" alt="Gameplay Screenshot 2">
-</p>
-
 ## 🚀 Installation & Running
 ### Prerequisites
 - **Android Studio**: Latest version recommended.
